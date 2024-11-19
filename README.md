@@ -1,4 +1,21 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+## Built with
+
+- Semantic HTML5 markup
+- CSS3: Grid, Flexbox
+- BEM methodology
+- Preprocessors: Sass
+- AOS
+- Mobile-first workflow
+
+## What I learned
+
+- Learned how to apply Grid to the whole page
+- Structured my code by separating everything into its own file
+- Used most of the features of SASS (cycles, functions, mixins, etc.)
+- First experience with animation libraries
+
+## Solution
+
+- Deployed and created a Pull Request with a [DEMO LINK](https://ostkreuzzz.github.io/BikeNow/)
+
+![alt text](image.png)
