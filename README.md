@@ -36,6 +36,6 @@ Users should be able to:
 
 ## Author
 
-- Github - [Ostkreuzzz](https://github.com/superpooperxxx)
+- Github - [Ostkreuzzz](https://github.com/Ostkreuzzz)
 - LinkedIn - [Mykhailo Sulima](https://www.linkedin.com/in/mykhailo-sulima-a80648339/)
 - Telegram - [@Ostkreuz](https://t.me/Ostkreuz)
