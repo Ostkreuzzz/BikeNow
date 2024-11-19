@@ -1,21 +1,41 @@
-## Built with
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- Visit website on different devices
+- Navigate through website with links in navigation bar
+- See animations and transitions to improve their experience
+
+### Screenshot
+
+![](my-bike-gif.gif)
+
+### Links
+
+- [Solution URL](https://github.com/Ostkreuzzz/BikeNow)
+- [Live Site URL](https://ostkreuzzz.github.io/BikeNow/)
+
+## My process
+
+### Built with
 
 - Semantic HTML5 markup
 - CSS3: Grid, Flexbox
-- BEM methodology
-- Preprocessors: Sass
-- AOS
+- BEM methodology: [BEM](https://en.bem.info/methodology/)
+- Preprocessors: [Sass](https://sass-lang.com)
 - Mobile-first workflow
+- AOS library for animations
 
-## What I learned
+### What I learned
 
-- Learned how to apply Grid to the whole page
-- Structured my code by separating everything into its own file
-- Used most of the features of SASS (cycles, functions, mixins, etc.)
-- First experience with animation libraries
+- Learned how to apply grid to the hole page
+- How to structure my code by separating everything into its own file
+- How to use most of the features of SASS (cycles, functions, mixins, etc.)
 
-## Solution
+## Author
 
-- Deployed and created a Pull Request with a [DEMO LINK](https://ostkreuzzz.github.io/BikeNow/)
-
-![alt text](image.png)
+- Github - [Ostkreuzzz](https://github.com/superpooperxxx)
+- LinkedIn - [Mykhailo Sulima](https://www.linkedin.com/in/mykhailo-sulima-a80648339/)
+- Telegram - [@Ostkreuz](https://t.me/Ostkreuz)
